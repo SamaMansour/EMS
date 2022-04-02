@@ -1,0 +1,26 @@
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\appsettings.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.staticwebassets.runtime.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.exe
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.deps.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.runtimeconfig.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.dll
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\bin\Debug\net6.0\EMS project.pdb
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.csproj.AssemblyReference.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.AssemblyInfoInputs.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.AssemblyInfo.cs
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.csproj.CoreCompileInputs.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.RazorAssemblyInfo.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.RazorAssemblyInfo.cs
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\scopedcss\bundle\EMS project.styles.css
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\scopedcss\projectbundle\EMS project.bundle.scp.css
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.dll
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\refint\EMS project.dll
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.pdb
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\EMS project.genruntimeconfig.cache
+C:\Users\Sama Mansour\source\repos\EMS project\EMS project\obj\Debug\net6.0\ref\EMS project.dll
