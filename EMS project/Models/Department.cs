@@ -2,10 +2,9 @@
 
 namespace EMS_project.Models
 {
-    public class Department
+    public class Department : EntityBase
     {
-        [Key]
-        public int Id { get; set; }
+        
 
         [Display(Name ="Department Name")]
         [StringLength(150)]
@@ -15,4 +14,6 @@ namespace EMS_project.Models
 
 
     }
+
+   
 }
