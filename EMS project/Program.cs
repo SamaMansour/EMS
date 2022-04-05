@@ -1,7 +1,12 @@
+using EMS_project.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddMvc();
+builder.Services.AddDbContext<VacationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("VacationConn")));
 
 var app = builder.Build();
 

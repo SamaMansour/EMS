@@ -30,5 +30,7 @@ namespace EMS_project.Models
 
 
         public DateTime? DateApproved { get; set; }
+
+        public List<VacationPlan> vacationPlanList { get; set; } = new List<VacationPlan>();
     }
 }
